@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_Feedback_Form", "Employee_Feedback_Form.csproj", "{11F8F7AE-F5E8-421E-966E-3AC9AD0B7CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F8F7AE-F5E8-421E-966E-3AC9AD0B7CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F8F7AE-F5E8-421E-966E-3AC9AD0B7CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F8F7AE-F5E8-421E-966E-3AC9AD0B7CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F8F7AE-F5E8-421E-966E-3AC9AD0B7CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEFA88B1-014A-4967-A36F-8F6410AFFDAC}
+	EndGlobalSection
+EndGlobal
